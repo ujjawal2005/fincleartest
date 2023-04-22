@@ -1,0 +1,126 @@
+{
+  "shares": [
+    {
+      "id": 1,
+      "code": "APT",
+      "companyName": "Afterpay Ltd"
+    },
+    {
+      "id": 2,
+      "code": "BHP",
+      "companyName": "BHP Group Ltd"
+    },
+    {
+      "id": 3,
+      "code": "CBA",
+      "companyName": "CommonWealth Bank of Australia"
+    },
+    {
+      "id": 4,
+      "code": "CSL",
+      "companyName": "CSL Ltd"
+    },
+    {
+      "id": 5,
+      "code": "GMG",
+      "companyName": "Goodman Group"
+    },
+    {
+      "id": 6,
+      "code": "REA",
+      "companyName": "REA Group Ltd"
+    },
+    {
+      "id": 7,
+      "code": "TLS",
+      "companyName": "Telstra Corporation Ltd"
+    },
+    {
+      "id": 8,
+      "code": "WES",
+      "companyName": "Wesfarmers Ltd"
+    },
+    {
+      "id": 9,
+      "code": "WOW",
+      "companyName": "Woolworths Group Ltd"
+    },
+    {
+      "id": 10,
+      "code": "XRO",
+      "companyName": "Xero Ltd"
+    },
+    {
+      "id": 11,
+      "code": "SHA",
+      "companyName": "SHAURYA"
+    }
+  ],
+  "volumes": [
+    {
+      "volume": 143,
+      "code": "APT",
+      "id": 1
+    },
+    {
+      "volume": 112,
+      "code": "BHP",
+      "id": 2
+    },
+    {
+      "volume": 9978,
+      "code": "CBA",
+      "id": 3
+    },
+    {
+      "volume": 286,
+      "code": "CSL",
+      "id": 4
+    },
+    {
+      "volume": 27,
+      "code": "GMG",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "code": "REA",
+      "volume": 54
+    },
+    {
+      "id": 7,
+      "code": "TLS",
+      "volume": 23
+    },
+    {
+      "id": 8,
+      "code": "WES",
+      "volume": 66
+    },
+    {
+      "volume": 30,
+      "code": "WOW",
+      "id": 9
+    },
+    {
+      "volume": 560,
+      "code": "XRO",
+      "id": 10
+    },
+    {
+      "id": 11,
+      "code": "TST",
+      "volume": "123"
+    },
+    {
+      "volume": 111,
+      "code": "SHA",
+      "id": 12
+    },
+    {
+      "id": 13,
+      "code": "RUM",
+      "volume": "222"
+    }
+  ]
+}
